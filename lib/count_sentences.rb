@@ -18,6 +18,6 @@ class String
     
     array = string.split(/[?.!]/)
     array.delete('')
-    array
+    array.count
   end
 end
