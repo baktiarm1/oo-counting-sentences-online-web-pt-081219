@@ -4,7 +4,7 @@ class String
 
   def sentence(string)
     
-    string.end_with?('.')
+    Self.sentence.end_with?('.')
     
    
   end
